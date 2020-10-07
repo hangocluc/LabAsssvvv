@@ -15,6 +15,7 @@ public class ChiTietNguoiDung extends AppCompatActivity {
     TextView edPhone,edFullName;
     Toolbar toolbar;
 
+    //kjlkjlkjk
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
